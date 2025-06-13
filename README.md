@@ -19,7 +19,7 @@
 - Jupyter Notebook
 
 ## 📈 Methodologies
-1. **Acquisitionand Data Cleaning**
+1. **Acquisition and Data Cleaning**
 2. **Exploratory Data Analysis (EDA)**
 3. **Cluestering Modeling**
 4. **Model Evaluation**
